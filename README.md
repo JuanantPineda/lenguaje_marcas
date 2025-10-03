@@ -1,3 +1,1 @@
-# lenguaje_marcas
-
-Prueba
+# Repositorio para los ejercicios de Lenguajes de Marcas
